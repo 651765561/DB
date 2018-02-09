@@ -1,0 +1,10 @@
+F:\net core\ core1\core1\core1\bin\Debug\netcoreapp1.1\core1.deps.json
+F:\net core\ core1\core1\core1\bin\Debug\netcoreapp1.1\core1.runtimeconfig.json
+F:\net core\ core1\core1\core1\bin\Debug\netcoreapp1.1\core1.runtimeconfig.dev.json
+F:\net core\ core1\core1\core1\bin\Debug\netcoreapp1.1\core1.dll
+F:\net core\ core1\core1\core1\bin\Debug\netcoreapp1.1\core1.pdb
+F:\net core\ core1\core1\core1\obj\Debug\netcoreapp1.1\core1.csproj.CoreCompileInputs.cache
+F:\net core\ core1\core1\core1\obj\Debug\netcoreapp1.1\core1.AssemblyInfo.cs
+F:\net core\ core1\core1\core1\obj\Debug\netcoreapp1.1\core1.dll
+F:\net core\ core1\core1\core1\obj\Debug\netcoreapp1.1\core1.pdb
+F:\net core\ core1\core1\core1\obj\Debug\netcoreapp1.1\core1.csprojResolveAssemblyReference.cache
